@@ -1,0 +1,15 @@
+[
+{
+	"op": "add",
+	"path": "/smallkirhos",
+	"value": {
+    "command" : {
+      "name" : "station command",
+      "tags" : [ "station", "friendly" ]
+    },
+    "engine" : {
+      "name" : "station engine room",
+      "tags" : [ "station", "friendly" ]
+    }
+}
+}]

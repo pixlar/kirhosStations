@@ -1,0 +1,13 @@
+[
+	{"op" : "add",
+	"path" : "/smallkirhos",
+	"value" : {
+		"species" : "kirhos",
+		"events" : ["apexraiders", "avianraiders", "floranraiders", "kirhosraiders", "calm"]
+	}
+	},
+	{"op" : "add",
+	"path" : "/protectorate/events/-",
+	"value" : "kirhosraiders"
+	}
+]

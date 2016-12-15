@@ -1,0 +1,37 @@
+[
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation1",
+  "value": ["A Kirhos Space Base.", "Seems to be broacasting hacker radio"]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation2",
+  "value": ["A Kirhos Space Base."]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation3",
+  "value": ["A Kirhos Space Base."]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation4",
+  "value": ["A Kirhos Space Base."]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation5",
+  "value": ["A Kirhos Space Base."]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation6",
+  "value": ["A Kirhos Space Base."]
+},
+{
+  "op": "add",
+  "path": "/planetTypeToDescription/kirhosstation7",
+  "value": ["A Kirhos Space Base."]
+}
+]

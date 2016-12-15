@@ -1,0 +1,78 @@
+[
+{ "op": "add", "path": "/planetaryTypes/Tier1SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation1",
+  "worldSize" : "kirhosstation1",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier1SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation1",
+  "worldSize" : "kirhosstation1",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier2SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation2",
+  "worldSize" : "kirhosstation2",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier2SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation2",
+  "worldSize" : "kirhosstation2",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier3SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation3",
+  "worldSize" : "kirhosstation3",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier3SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation3",
+  "worldSize" : "kirhosstation3",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier4SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation4",
+  "worldSize" : "kirhosstation4",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier4SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation4",
+  "worldSize" : "kirhosstation4",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier5SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation5",
+  "worldSize" : "kirhosstation5",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier5SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation5",
+  "worldSize" : "kirhosstation5",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier6SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation6",
+  "worldSize" : "kirhosstation6",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier6SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation6",
+  "worldSize" : "kirhosstation6",
+  "atmosphere" : true
+}},
+
+{ "op": "add", "path": "/planetaryTypes/Tier6SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation7",
+  "worldSize" : "kirhosstation7",
+  "atmosphere" : true
+}},
+{ "op": "add", "path": "/satelliteTypes/Tier7SpaceStation/variationParameters/-", "value": {
+  "dungeonWorld" : "kirhosstation7",
+  "worldSize" : "kirhosstation7",
+  "atmosphere" : true
+}}
+]

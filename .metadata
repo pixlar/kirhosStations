@@ -1,0 +1,11 @@
+{
+  "author" : "magewish4",
+  "description" : "Kirhos Stations - demo mod of SpaceStations submod",
+  "friendlyName" : "Kirhos Stations",
+  "link" : "",
+  "name" : "kirhosStations",
+  "path" : ".",
+  "steamContentId" : "",
+  "requires" : ["m4_spacestations", "kirhos"],
+  "version" : ".6"
+}

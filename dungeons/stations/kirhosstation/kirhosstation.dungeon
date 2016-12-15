@@ -1,0 +1,124 @@
+{
+  "metadata" : {
+    "name" : "kirhosstation",
+    "species" : "kirhos",
+    "rules" : [
+    ],
+    "anchor" : [ "base" ],
+    "gravity" : 60,
+    "maxRadius" : 1000000,
+    "maxParts" : 50,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // STATION LAYOUTS
+    {
+      "name" : "base",
+      "rules" : [
+        [ "doNotCombineWith", [ "base" ] ]
+      ],
+      "def" : [ "tmx", "base.json" ],
+      "chance" : 1
+    },
+    
+    // ROOMS
+    {
+      "name" : "stationRoomKirhos",
+      "rules" : [
+        [ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomKirhos.json" ],
+      "chance" : 8
+    },
+    {
+      "name" : "stationRoomComputers",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomComputers.json" ],
+      "chance" : 3
+    },
+    {
+      "name" : "stationRoomHylotl",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomHylotl.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomAvian",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomAvian.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomApex",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomApex.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomFloran",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomFloran.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomGlitch",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomGlitch.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomMerchants",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomMerchants.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "stationRoomTerramart",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomTerramart.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomExpress",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomExpress.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomFrog",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomFrog.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "stationRoomStorage",
+      "rules" : [
+        [ "maxSpawnCount", [4] ]
+      ],
+      "def" : [ "tmx", "/dungeons/stations/m4_protectoratestation/stationRoomStorage.json" ],
+      "chance" : 1
+    }
+  ]
+}

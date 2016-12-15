@@ -1,0 +1,79 @@
+[
+{ "op": "add", "path": "/kirhosstation1", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 1,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation2", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 2,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation3", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 3,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation4", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 4,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation5", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 5,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation6", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 6,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}},
+{ "op": "add", "path": "/kirhosstation7", "value": {
+  "primaryDungeon" : "kirhosstation",
+  "threatLevel" : 7,
+  "airless" : false,
+  "breathable" : true,
+  "gravity" : 50,
+  "worldSize" : [4096, 8192],
+  "dungeonBaseHeight" : 4096,
+  "ambientLightLevel" : [80, 80, 80],
+  "musicTrack" : "/music/planetarium.ogg"
+}}
+]

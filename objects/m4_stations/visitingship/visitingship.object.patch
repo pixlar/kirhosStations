@@ -1,0 +1,17 @@
+[
+{
+	"op":"add",
+	"path":"/shipTypes/-",
+	"value":
+	{ 
+		"shipType" : "kirhos", 
+		"crew" : [
+			["kirhos", "shipcaptain"],
+			["kirhos", "basicshipcrew"],
+			["kirhos", "basicshipcrew"],
+			["kirhos", "protectoratecrew"],
+			["kirhos", "shipsmerchant"]
+		]
+	}
+}
+]
